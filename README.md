@@ -3,7 +3,6 @@
 ご了承ください.
 
 ## Writeups
----
 - [TSGCTF 2023](https://profuse-devourer-099.notion.site/TSGCTF-5ec8294147144bd28bc204e678a638fc?pvs=4)
 - [CakeCTF 2023](https://profuse-devourer-099.notion.site/CakeCTF-7f210b64fa824371911f46692dde6df8?pvs=4)
 - [防衛省サイバーコンテスト 2024.2](https://profuse-devourer-099.notion.site/df3e52eb309449bd9f341b6488817f0c?pvs=4)
